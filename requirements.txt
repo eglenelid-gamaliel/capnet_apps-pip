@@ -1,0 +1,63 @@
+# PIP tratará de generar links locales de estas bibliotecas en la carpeta requirements
+--find-links=requirements
+
+# Dependencias de Capnet Apps
+django==3.2 # Framework Web
+
+djangorestframework # Framework REST
+django-drf-filepond # Integracion de Filepond
+
+django-excel-response # Archivo Excel en HTTP Response
+django-mathfilters # Funciones Matematicas extendidas para templates
+
+channels==3.0.3 # Framework Websockets
+channels_redis
+redis
+
+django-pwa # Progresive Web App
+django-webpush # Notificaciones Push
+
+# Datos
+pillow
+pandas
+numpy
+
+# PDFs
+reportlab
+PyMuPDF
+PyPDF2
+
+# Pago en linea
+stripe
+mercadopago
+
+# Insight
+pytesseract
+opencv-python
+python-Levenshtein
+
+# Servicios SOAP
+zeep
+
+# Tareas asincronas
+celery==5.0.5
+eventlet
+gevent
+
+# IO
+aiohttp
+
+# Conexion a base de datos
+pyodbc
+django-mssql-backend
+
+# Servidor ASGI
+daphne==3.0.2
+
+# ???
+bleach
+
+# Por remover
+whitenoise # Entrega de archivos estaticos
+django-crispy-forms # Estilizacion de forms (Por remover)
+sentry-sdk
