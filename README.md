@@ -1,4 +1,4 @@
-# Python Packages Repo
+# Capnet Apps Python packages repo
 
 Este repositorio contiene los archivos .whl de las dependencias de capnet_apps.
 
@@ -10,4 +10,5 @@ Las instrucciones para usar este repositorio se encuentran en la wiki de capnet_
 
 - Windows 64 bits
 
-- Python 3.8.X
+- Python 3.8.X (Exclusivamente, no 3.7, no 3.6, etc)
+
