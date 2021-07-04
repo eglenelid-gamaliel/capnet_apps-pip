@@ -2,7 +2,7 @@
 --find-links=requirements
 
 # Dependencias de Capnet Apps
-django==3.2 # Framework Web
+django==3.2.4 # Framework Web
 
 djangorestframework # Framework REST
 django-drf-filepond # Integracion de Filepond
