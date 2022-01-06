@@ -40,7 +40,7 @@ python-Levenshtein
 zeep
 
 # Tareas asincronas
-celery==5.0.5
+celery==5.2.2
 eventlet
 gevent
 
